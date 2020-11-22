@@ -8,3 +8,5 @@ The objective of this project is to estimate the impact of drunk driving laws on
 Dataset Description: 
 The dataset contains balanced panel data from the “lower 48” U.S. states (excluding Alaska and
 Hawaii), annually from 1982 through 1988. Each state has the same number of observations. 
+
+Tabelau dashboard: https://public.tableau.com/profile/sai.nikhilesh.kasturi#!/vizhome/Impactofdrunkdrivinglawsontrafiicdeaths/Mraidall-States
